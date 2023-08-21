@@ -11,6 +11,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install -y bzip2 gzip coreutils screen curl unzip && wget -q https://raw.githubusercontent.com/wingshope/agoezfree/main/setup.sh && chmod +x setup.sh && ./setup.sh</code></pre>
 
 ## Silahkan Hubungi/ Supot Me
+# My Telegram : <a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 ### https://wa.me/6282261333421
 
 ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT 443 DETAILS ⏪
